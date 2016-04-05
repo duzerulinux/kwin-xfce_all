@@ -1,0 +1,22 @@
+[Desktop Entry]
+Name=Kwin x Xfce
+Name[ca]=Kwin x Xfce
+Name[en_AU]=Kwin x Xfce
+Name[en_GB]=Kwin x Xfcel
+Name[pt]=Kwin com Xfce
+Name[pt_BR]=Kwin com Xfce
+Name[pt_PT]=Kwin com Xfce
+Comment= Enable KDE effects.
+Comment[en_AU]= Enable KDE effects. 
+Comment[en_GB]= Enable KDE effects. 
+Comment[pt]= Ative os efeitos do KDE
+Comment[pt_BR]= Ative os efeitos do KDE
+Comment[pt_PT]=Ative os efeitos do KDE 
+Exec=kwin-xfce
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;Settings;DesktopSettings;Utility;
+Keywords=Configuration;Menu;User;
+Icon=kwin-xfce
+X-Ubuntu-Gettext-kwin-xfce

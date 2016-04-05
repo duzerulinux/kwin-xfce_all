@@ -1,0 +1,13 @@
+Package: kwin-xfce
+Version: 1.0.0
+Maintainer: Claudio A. Silva <claudiosilva@duzeru.org>
+Architecture: all
+Section: acessories
+Priority: optional
+Installed-Size: 1200
+Depends: kde-window-manager, kwin-style-crystal,kde-style-qtcurve, qtcurve, python-simplejson, libjs-jquery
+Homepage: http://duzeru.org
+Description: Kwin x Xfce vai deixar seu Xfce mais bonito.
+ Feito no DuZeru para Debian e derivados com Xfce
+ Kwin x Xfce will leave its most beautiful system.
+ made in DuZeru for Debian and derivates with Xfce.
